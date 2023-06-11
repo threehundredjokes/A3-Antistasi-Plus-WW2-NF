@@ -1,0 +1,5 @@
+#define CIV_HELI 100
+#define POLICE 200
+#define VEH_MOVE 300
+#define VEH_PATROL 400
+#define VEH_POSTAMBUSH 500
